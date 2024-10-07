@@ -75,6 +75,21 @@ p {
   margin-top: 0;
 }
 
+.btn {
+  color: #252525;
+  background-color: #99d930;
+  text-decoration: none;
+  padding: 5px 20px;
+  display: inline-block;
+  margin-top: 25px;
+}
+
+.btn:hover,
+.btn:focus {
+  color: #fff;
+  background-color: #252525;
+}
+
 a {
   color: #99d930;
   font-weight: 900;
