@@ -24,6 +24,11 @@ header {
   background-color: #eaf9ff;
 }
 
+.dark {
+  background-color: #252525;
+  color: #fff;
+}
+
 header,
 section {
   padding: 100px 0;
